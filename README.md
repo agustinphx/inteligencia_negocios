@@ -58,7 +58,7 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 ## Análisis de Ventas  ![ventas generales](https://github.com/agustinphx/workshop_analytics/assets/58674979/719e02b1-0c0d-47bf-8798-71cdae51aad8)
 ![image](https://github.com/user-attachments/assets/59098234-9238-457e-86e2-f2d33b7a9d49)
 ‎
-### Insights ![icons8-luz-encendida-50](https://github.com/agustinphx/workshop_analytics/assets/58674979/528acb49-33da-46cd-85bd-bc5e04e78a9d)
+### Insights <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-insight-market-research-flaticons-lineal-color-flat-icons.png" alt="external-insight-market-research-flaticons-lineal-color-flat-icons"/>
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Podemos visualizar fácilmente que hay una estacionalidad en los datos, esto quiere decir que durante un período determinado de tiempo hay una tendencia (alcista o bajista) en los datos. En este caso desde Diciembre a Febrero vemos que las ventas caen para repuntar fuertemente a partir de Marzo.
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  También podemos diferenciar que el mayorista es el rubro al que más se le vende representando alrededor de un 56% sobre el total de ventas.‎      ‏‏‎
 ‎      ‎      ‏‏‎
@@ -69,7 +69,7 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 ## Análisis de ventas formales e informales  ![ventas formales e informales](https://github.com/agustinphx/workshop_analytics/assets/58674979/bf338cd4-1349-46f9-b329-7605b58d482f)
 ![image](https://github.com/user-attachments/assets/365f451c-27dc-4ae9-b6a0-e3c0d857a3ab)
 
-### Insights ![icons8-luz-encendida-50](https://github.com/agustinphx/workshop_analytics/assets/58674979/528acb49-33da-46cd-85bd-bc5e04e78a9d)
+### Insights <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-insight-market-research-flaticons-lineal-color-flat-icons.png" alt="external-insight-market-research-flaticons-lineal-color-flat-icons"/>
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  La ganancia formal representa solamente alrededor de un 29% de la ganancia total a pesar de representar casi el 59% de las ventas totales, mientras que la ganancia informal fue de alrededor del 71% y las ventas informales representaron el 41% de las ventas totales. Esta disparidad se debe principalmente a que en la modalidad informal se evita la contribución de tasas y cargos, entre otros componentes.
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  El mes con  mayores ventas fue Agosto.
 ‎      ‎      ‏‏‎
@@ -80,7 +80,7 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 ![image](https://github.com/user-attachments/assets/fcf8935d-ac56-48ca-880a-c1c55617270e)
 
 
-### Insights ![icons8-luz-encendida-50](https://github.com/agustinphx/workshop_analytics/assets/58674979/528acb49-33da-46cd-85bd-bc5e04e78a9d)
+### Insights <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-insight-market-research-flaticons-lineal-color-flat-icons.png" alt="external-insight-market-research-flaticons-lineal-color-flat-icons"/>
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Los meses de mayores egresos se comprenden entre Julio y Noviembre, lo cual tiene sentido al utilizar más materia prima ya que son los meses donde hay un gran volúmen de ventas.
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Casi un 65% de los gastos se van entre salarios y materia prima, lo cuál significa que la amplia mayoría de los egresos son costos operativos.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
