@@ -88,10 +88,6 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 ## Modelado Dimensional ![icons8-base-de-datos-32](https://github.com/agustinphx/workshop_analytics/assets/58674979/207db34c-306c-40c3-804d-fe7c10da0593)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-####
-![Proyecto final - EANT](https://github.com/agustinphx/workshop_analytics/assets/58674979/abd08f18-f867-42c2-ac1f-cb57beed05ef)
-
-
 ## Herramientas utilizadas
 ### Jamboard <img src="https://img.icons8.com/fluent/36/000000/jamboard.png"/>
 https://jamboard.google.com/
