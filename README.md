@@ -65,8 +65,7 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Análisis de ventas formales e informales  ![ventas formales e informales](https://github.com/agustinphx/workshop_analytics/assets/58674979/bf338cd4-1349-46f9-b329-7605b58d482f)
-![image](https://github.com/user-attachments/assets/365f451c-27dc-4ae9-b6a0-e3c0d857a3ab)
+## Análisis de ventas formales e informales  <img width="40" height="40" src="https://img.icons8.com/dusk/64/total-sales.png" alt="total-sales"/>
 
 ### Insights <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-insight-market-research-flaticons-lineal-color-flat-icons.png" alt="external-insight-market-research-flaticons-lineal-color-flat-icons"/>
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  La ganancia formal representa solamente alrededor de un 29% de la ganancia total a pesar de representar casi el 59% de las ventas totales, mientras que la ganancia informal fue de alrededor del 71% y las ventas informales representaron el 41% de las ventas totales. Esta disparidad se debe principalmente a que en la modalidad informal se evita la contribución de tasas y cargos, entre otros componentes.
