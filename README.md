@@ -1,2 +1,2 @@
-# inteligencia_negocios
-Proyecto integrador de Inteligencia de Negocios - UCSF
+# Inteligencia de Negocios <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-intelligence-data-analytics-flaticons-flat-flat-icons.png" alt="external-business-intelligence-data-analytics-flaticons-flat-flat-icons"/>
+Este repositorio contiene el proyecto integrador realizado para la asignatura: "Inteligencia de Negocios" de la Universidad Católica de Santa Fe.
