@@ -93,8 +93,10 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 
 
 ## Herramientas utilizadas
+### Jamboard <img src="https://img.icons8.com/fluent/36/000000/jamboard.png"/>
+https://jamboard.google.com/
+
 ### Power BI  <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
 https://powerbi.microsoft.com/es-es/desktop/
 
-### Jamboard <img src="https://img.icons8.com/fluent/36/000000/jamboard.png"/>
-https://jamboard.google.com/
+
