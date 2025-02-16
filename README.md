@@ -55,8 +55,7 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-## Análisis de Ventas  ![ventas generales](https://github.com/agustinphx/workshop_analytics/assets/58674979/719e02b1-0c0d-47bf-8798-71cdae51aad8)
-![image](https://github.com/user-attachments/assets/59098234-9238-457e-86e2-f2d33b7a9d49)
+## Análisis de Ventas ![Image](https://github.com/user-attachments/assets/829c9d46-30e6-48af-a621-9d6b3782fe2f)
 ‎
 ### Insights <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-insight-market-research-flaticons-lineal-color-flat-icons.png" alt="external-insight-market-research-flaticons-lineal-color-flat-icons"/>
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Podemos visualizar fácilmente que hay una estacionalidad en los datos, esto quiere decir que durante un período determinado de tiempo hay una tendencia (alcista o bajista) en los datos. En este caso desde Diciembre a Febrero vemos que las ventas caen para repuntar fuertemente a partir de Marzo.
