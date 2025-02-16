@@ -75,8 +75,7 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 ‎      ‎      ‏‏‎
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Análisis de egresos ![egresos](https://github.com/agustinphx/workshop_analytics/assets/58674979/fcef6e8c-e9c2-47d8-901a-a2372c422cd9)
-![image](https://github.com/user-attachments/assets/fcf8935d-ac56-48ca-880a-c1c55617270e)
+## Análisis de egresos <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-costs-accounting-flaticons-flat-flat-icons-3.png" alt="external-costs-accounting-flaticons-flat-flat-icons-3"/>
 
 
 ### Insights <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-insight-market-research-flaticons-lineal-color-flat-icons.png" alt="external-insight-market-research-flaticons-lineal-color-flat-icons"/>
