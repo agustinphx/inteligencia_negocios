@@ -84,6 +84,8 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 
 ## Modelado Dimensional ![icons8-base-de-datos-32](https://github.com/agustinphx/workshop_analytics/assets/58674979/207db34c-306c-40c3-804d-fe7c10da0593)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+![Image](https://github.com/user-attachments/assets/1ea4eb95-b3d0-42bd-a037-00620967d0d1)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ## Herramientas utilizadas
 ### Jamboard <img src="https://img.icons8.com/fluent/36/000000/jamboard.png"/>
