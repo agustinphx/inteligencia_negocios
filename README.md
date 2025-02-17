@@ -1,5 +1,6 @@
 # Inteligencia de Negocios <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-intelligence-data-analytics-flaticons-flat-flat-icons.png" alt="external-business-intelligence-data-analytics-flaticons-flat-flat-icons"/>
 Este repositorio contiene el proyecto integrador final realizado para la asignatura: "Inteligencia de Negocios" de la Universidad Católica de Santa Fe.
+###  ‎ ‎ ‎ ‎ ‎
 
 ## Proyecto de análisis: Panadería Las Delicias <img src="https://img.icons8.com/fluent/30/000000/bakery.png"/>
 ## Métricas 📊 
