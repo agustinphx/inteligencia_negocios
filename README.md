@@ -1,11 +1,11 @@
 # Inteligencia de Negocios <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-intelligence-data-analytics-flaticons-flat-flat-icons.png" alt="external-business-intelligence-data-analytics-flaticons-flat-flat-icons"/>
 Este repositorio contiene el proyecto integrador final realizado para la asignatura: "Inteligencia de Negocios" de la Universidad Católica de Santa Fe.
 
-## Caso de análisis: Panadería Las Delicias <img src="https://img.icons8.com/fluent/30/000000/bakery.png"/>
+## Proyecto de análisis: Panadería Las Delicias <img src="https://img.icons8.com/fluent/30/000000/bakery.png"/>
 ## Métricas 📊 
 ### Las métricas de negocio son las medidas cuantificables que se utilizarán en el sistema de BI para cuantificar a los business drivers. El objetivo del Business Intelligence es el de proveer al management de un marco de trabajo desde el cual éste pueda identificar, monitorear y accionar de manera ágil en las palancas claves del negocio.
-### Cabe aclarar que las métricas, antes que fórmulas, son respuestas a las preguntas importantes del negocio.
-‎
+### Cabe aclarar que las métricas, antes que fórmulas, son respuestas a las preguntas importantes del negocio. 
+### Las métricas más usuales suelen ser los KPIs y OKRs pero también hay otras no tan usadas como KSF, KRI, RI, PI
 ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> KPIs (Key Performance Indicators)
 ### Son los indicadores clave de performance que se enfocan en los aspectos del desempeño organizacional que son los más críticos para el éxito actual y futuro de la organización.
