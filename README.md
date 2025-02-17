@@ -81,8 +81,9 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Los meses de mayores egresos se comprenden entre Julio y Noviembre, lo cual tiene sentido al utilizar más materia prima ya que son los meses donde hay un gran volúmen de ventas.
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Casi un 65% de los gastos se van entre salarios y materia prima, lo cuál significa que la amplia mayoría de los egresos son costos operativos.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-## Modelado Dimensional ![icons8-base-de-datos-32](https://github.com/agustinphx/workshop_analytics/assets/58674979/207db34c-306c-40c3-804d-fe7c10da0593)
+## Modelado Dimensional <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-data-modelling-big-data-flaticons-flat-flat-icons-2.png" alt="external-data-modelling-big-data-flaticons-flat-flat-icons-2"/>
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ![Image](https://github.com/user-attachments/assets/1ea4eb95-b3d0-42bd-a037-00620967d0d1)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
