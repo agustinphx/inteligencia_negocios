@@ -74,6 +74,8 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Análisis de egresos <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-costs-accounting-flaticons-flat-flat-icons-3.png" alt="external-costs-accounting-flaticons-flat-flat-icons-3"/>
 
+![Image](https://github.com/user-attachments/assets/a0b1c1fd-e1e0-478f-b16e-5a31c97fd0b7)
+
 
 ### Insights <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-insight-market-research-flaticons-lineal-color-flat-icons.png" alt="external-insight-market-research-flaticons-lineal-color-flat-icons"/>
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Los meses de mayores egresos se comprenden entre Julio y Noviembre, lo cual tiene sentido al utilizar más materia prima ya que son los meses donde hay un gran volúmen de ventas.
