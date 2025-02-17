@@ -50,7 +50,9 @@ Este repositorio contiene el proyecto integrador final realizado para la asignat
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ## Análisis de Ventas ![Image](https://github.com/user-attachments/assets/829c9d46-30e6-48af-a621-9d6b3782fe2f)
-‎
+
+‎![Image](https://github.com/user-attachments/assets/5929e9e2-3331-4372-b924-dccda47c5b56)
+
 ### Insights <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-insight-market-research-flaticons-lineal-color-flat-icons.png" alt="external-insight-market-research-flaticons-lineal-color-flat-icons"/>
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Podemos visualizar fácilmente que hay una estacionalidad en los datos, esto quiere decir que durante un período determinado de tiempo hay una tendencia (alcista o bajista) en los datos. En este caso desde Diciembre a Febrero vemos que las ventas caen para repuntar fuertemente a partir de Marzo.
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  También podemos diferenciar que el mayorista es el rubro al que más se le vende representando alrededor de un 56% sobre el total de ventas.‎      ‏‏‎
